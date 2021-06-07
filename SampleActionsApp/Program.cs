@@ -13,7 +13,7 @@ namespace SampleActionsApp
         static void Main(string[] args)
         {
             // Yet another good commit :D
-            Console.WriteLine("Hello World!")
+            Console.WriteLine("Hello World!");
         }
     }
 }
